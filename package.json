@@ -1,0 +1,19 @@
+{
+  "name": "audiophore",
+  "description": "A site for music",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x",
+    "id3js": "1.x",
+    "proactive-record": "0.x"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-express-server": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-mocha-test": "~0.6.3",
+    "chai": "~1.7.2",
+    "growl": "~1.7.0"
+  }
+}

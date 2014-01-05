@@ -1,0 +1,18 @@
+{
+  "development": {
+    "adapter": "postgres",
+    "host": "localhost",
+    "database": "audiophore",
+    "username": "audiophore",
+    "password": "audiophore"
+  },
+  "production": {
+  },
+  "test": {
+    "adapter": "postgres",
+    "host": "localhost",
+    "database": "audiophore-test",
+    "username": "audiophore",
+    "password": "audiophore"
+  }
+}
